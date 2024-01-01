@@ -1,4 +1,4 @@
-###Barbearia Stylus
+##Barbearia Stylus
 
 Este é um projeto simples para apresentar os serviços oferecidos pela Barbearia Stylus.
 
